@@ -1,0 +1,21 @@
+{
+  "name": "a-composite-run-steps-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is a test by nithik\"",
+    "build": "echo \"Add your build script when ready\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithiktest/a-composite-run-steps-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nithiktest/a-composite-run-steps-action/issues"
+  },
+  "homepage": "https://github.com/nithiktest/a-composite-run-steps-action#readme"
+}
